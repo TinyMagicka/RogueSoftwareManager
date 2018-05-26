@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/cbfb11644b5e915ae176b5cf19f8621f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8b184d44d2258b9edb37f574a966c914/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/33a3978d875a031e4af658bed06c96c0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/83815d08297c30468487132c5f7ab745/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/415b888cb5e630b21c7a6a884ea17d07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7de69cd924b00630b98649b04266e8b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/7f043f099efb6cdccdd6d644607ceb63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1b9e53ce71b985d42897ffdb8c5e65b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c3c081c22d9276a5ca588333f9eb8914/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2af3e381856e41686b679c1598b1755b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d93b03668f4d1da45c58f7c0c60b09bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e005a00643504c5295942053322a972c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c8fe4d83cc9834bef62a3c8a9b266567/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/53bfda23d54ece95f1cb5311dca9ae43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4b35efe2af5ccdf6a388ec679222e7c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1f0901d77a77ccb86275e8722a38ac39/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c30b8194993ac377d2c24389a233971c/AndroidManifest.xml:17:1-22:12
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/33a3978d875a031e4af658bed06c96c0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/33a3978d875a031e4af658bed06c96c0/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:11:9-40
+meta-data#xposedmodule
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:12:9-14:36
+	android:value
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:14:13-33
+	android:name
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:13:13-40
+meta-data#xposedminversion
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:15:9-17:35
+	android:value
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:17:13-32
+	android:name
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:16:13-44
+meta-data#xposeddescription
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:18:9-20:90
+	android:value
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:20:13-87
+	android:name
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:19:13-45
+activity#com.tiny.rougeappmanager.MainActivity
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.tiny.rougeappmanager.AppDetial
+ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:29:9-32:68
+	android:label
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:31:13-62
+	android:theme
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml:30:13-38
+uses-sdk
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/cbfb11644b5e915ae176b5cf19f8621f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/cbfb11644b5e915ae176b5cf19f8621f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8b184d44d2258b9edb37f574a966c914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8b184d44d2258b9edb37f574a966c914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/33a3978d875a031e4af658bed06c96c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/33a3978d875a031e4af658bed06c96c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/83815d08297c30468487132c5f7ab745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/83815d08297c30468487132c5f7ab745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/415b888cb5e630b21c7a6a884ea17d07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/415b888cb5e630b21c7a6a884ea17d07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7de69cd924b00630b98649b04266e8b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7de69cd924b00630b98649b04266e8b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/7f043f099efb6cdccdd6d644607ceb63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/7f043f099efb6cdccdd6d644607ceb63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1b9e53ce71b985d42897ffdb8c5e65b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1b9e53ce71b985d42897ffdb8c5e65b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c3c081c22d9276a5ca588333f9eb8914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c3c081c22d9276a5ca588333f9eb8914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2af3e381856e41686b679c1598b1755b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2af3e381856e41686b679c1598b1755b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d93b03668f4d1da45c58f7c0c60b09bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d93b03668f4d1da45c58f7c0c60b09bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e005a00643504c5295942053322a972c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e005a00643504c5295942053322a972c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c8fe4d83cc9834bef62a3c8a9b266567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c8fe4d83cc9834bef62a3c8a9b266567/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/53bfda23d54ece95f1cb5311dca9ae43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/53bfda23d54ece95f1cb5311dca9ae43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4b35efe2af5ccdf6a388ec679222e7c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4b35efe2af5ccdf6a388ec679222e7c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1f0901d77a77ccb86275e8722a38ac39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1f0901d77a77ccb86275e8722a38ac39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c30b8194993ac377d2c24389a233971c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c30b8194993ac377d2c24389a233971c/AndroidManifest.xml:20:5-44
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+		ADDED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
+		INJECTED from /root/WorkSpace/GIT/RogueSoftwareManager/app/src/main/AndroidManifest.xml
